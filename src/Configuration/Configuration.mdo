@@ -28,4 +28,5 @@
   <catalogs>Catalog.ВидыНоменклатуры</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <documents>Document.СчетНаОплату</documents>
 </mdclass:Configuration>
