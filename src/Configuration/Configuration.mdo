@@ -26,5 +26,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.ВидыНоменклатуры</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
 </mdclass:Configuration>
